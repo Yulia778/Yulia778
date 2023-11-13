@@ -32,18 +32,19 @@
 ![Spring](https://img.shields.io/badge/Spring-316192?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-6DA55F?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=MySQL&logoColor=%2361DAFB)
-![PostgresSQL](https://img.shields.io/badge/PostgresSQL-%23593d88.svg?style=for-the-badge&logo=PostgresSQL&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23593d88.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23E0234E.svg?style=for-the-badge&logo=JUnit&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2338B2AC.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%230081CB.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yulia778&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 # Hobby
 
