@@ -2,7 +2,7 @@
 # Kozlova Yulia
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx" width="100"/>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
 
 **Telephone number**: _+375333060747_
