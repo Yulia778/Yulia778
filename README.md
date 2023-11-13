@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/Telrgram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telrgram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Yulia778&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hi, I'm Yulia778
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
