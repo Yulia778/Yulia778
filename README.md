@@ -59,3 +59,5 @@
 
 [Certificate link](https://www.linkedin.com/in/kozlova-yulia-651253163/detail/treasury/position:1835001034/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACcDdN0BcYCwB986G7P6iNdCOlvs0Yhqn44%2C1635468279134)&section=position%3A1835001034&treasuryCount=1)
 
+** Epam "Java Web Development", 2022** 
+
