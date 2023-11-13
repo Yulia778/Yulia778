@@ -1,37 +1,18 @@
 
-# Kozlova Yulia
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
-
-**Telephone number**: _+375333060747_
-
-**E-mail**: [yulchic_95@mail.ru](yulchic_95@mail.ru)
-
-**Telegram**: [Telegram link](https://t.me/KozlovaYulia95)
-
-**LinkedIn profile**: [LinkedIn link](https://www.linkedin.com/in/kozlova-yulia-651253163/)
-
-**github**: [GitHub link ]( https://github.com/Yulia778)
-
-**English**: Intermediate (B1).
-
-
-
-# Summary
-
-* Start programming in 2020
-* Good written and verbal communication skills,good team worker.
-
-
-# Technical Skills
-
-**Programming languages and technologies**:Java Core, HTML,C++
-**Programming practices:** Model-View-Controller,PMD, Code review
-**Tools:** JUnit,GIT,Maven,Gradle,IntelliJ Idea
-
-**Other skills:** Windows, basic knowledge in Linux
+<div id="badges">
+  <a href="www.linkedin.com/in/kozlova-yulia-651253163">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/KozlovaYulia95">
+    <img src="https://img.shields.io/badge/Telrgram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telrgram Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yulia778&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
